@@ -2,7 +2,7 @@
 This is my personal collection of free coding interview books, please feel free to share and learn.
 
 ## List of Books
-You can find all the books listed below in book folder of this repo:
+You can find all the books listed below in this repo:
 
 - Ace the Programming Interview - 160 Questions and Answers for Success [[Download]]()
 - Algorithms For Interviews [[Download]]()
