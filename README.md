@@ -10,5 +10,6 @@ You can find all the books listed below in this repo:
 - Coding Interviews - Questions, Analysis & Solutions [[Download]](https://github.com/Vaitae/Coding-Interview-Books/blob/38907b224935863d2ec0d38167880459f6781008/Coding%20Interviews%20-%20Questions%2C%20Analysis%20%26%20Solutions.pdf)
 - Cracking the Coding Interview, 6th Edition [[Download]](https://drive.google.com/file/d/1fKZLTu1YbLuxM2Q1f1s-CrPXbRdHDcTZ/view?usp=sharing)
 - Data Structures and Algorithm - Narasimha Karumanchi [[Download]](https://github.com/Vaitae/Coding-Interview-Books/blob/38907b224935863d2ec0d38167880459f6781008/Data%20Structures%20and%20Algorithms%20-%20Narasimha%20Karumanchi%20(6th%20Ed).pdf)
+- Elements of Programming Interviews in Python [[Download]](https://github.com/Vaitae/Coding-Interview-Books/blob/bca0746497f7c7a02fc682c417a8a581782e647b/Elements%20of%20programming%20interviews%20in%20python.pdf)
 - Interviewing Engineering Graduates [[Download]](https://github.com/Vaitae/Coding-Interview-Books/blob/38907b224935863d2ec0d38167880459f6781008/Interviewing%20Engineering%20Graduates.pdf)
 - The Google Resume [[Download]](https://github.com/Vaitae/Coding-Interview-Books/blob/38907b224935863d2ec0d38167880459f6781008/The%20Google%20Resume.pdf)
