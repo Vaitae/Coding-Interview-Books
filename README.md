@@ -19,3 +19,4 @@ You can find all the books listed below in this repo:
 - Mastering Python Regular Expressions [[Download]]()
 - SQL Cookbook [[Download]]()
 - The Google Resume [[Download]](https://github.com/Vaitae/Coding-Interview-Books/blob/38907b224935863d2ec0d38167880459f6781008/The%20Google%20Resume.pdf)
+- Zero to Deep Learning [[Download]]()
