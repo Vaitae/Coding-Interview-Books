@@ -11,6 +11,7 @@ You can find all the books listed below in this repo:
 - Cracking the Coding Interview, 6th Edition [[Download]](https://drive.google.com/file/d/1fKZLTu1YbLuxM2Q1f1s-CrPXbRdHDcTZ/view?usp=sharing)
 - Data Structures and Algorithm - Narasimha Karumanchi [[Download]](https://github.com/Vaitae/Coding-Interview-Books/blob/38907b224935863d2ec0d38167880459f6781008/Data%20Structures%20and%20Algorithms%20-%20Narasimha%20Karumanchi%20(6th%20Ed).pdf)
 - Elements of Programming Interviews in Python [[Download]](https://github.com/Vaitae/Coding-Interview-Books/blob/bca0746497f7c7a02fc682c417a8a581782e647b/Elements%20of%20programming%20interviews%20in%20python.pdf)
+- Flask Web Development [[Download]](https://github.com/Vaitae/Coding-Interview-Books/blob/main/Flask-Web-Development.pdf)
 - Grokking Data Structures [[Download]](https://github.com/Vaitae/Coding-Interview-Books/blob/main/Grokking%20Data%20Structures.pdf)
 - Interviewing Engineering Graduates [[Download]](https://github.com/Vaitae/Coding-Interview-Books/blob/38907b224935863d2ec0d38167880459f6781008/Interviewing%20Engineering%20Graduates.pdf)
 - Introduction to Machine Learning with Python [[Download]](https://github.com/Vaitae/Coding-Interview-Books/blob/40dc2af429445ce98d0350e304028809a960f858/Introduction%20to%20Machine%20Learning%20with%20Python.pdf)
